@@ -10,7 +10,7 @@ def maopao(list):
 if __name__ == '__main__':
     list = [1,6,5,3,8]
     maopao(list)
-    print list
+    print(list)
 
 
 
