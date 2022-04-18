@@ -2,8 +2,8 @@ Index: python_exam.py
 ===================================================================
 diff --git a/python_exam.py b/python_exam.py
 deleted file mode 100644
---- a/python_exam.py	(revision 3d7c073a575fd5e26b5f714785b106f8d52736b9)
-+++ /dev/null	(revision 3d7c073a575fd5e26b5f714785b106f8d52736b9)
+--- a/python_exam.py	
++++ /dev/null	
 @@ -1,135 +0,0 @@
 -# -*- coding:utf-8 -*—
 -
@@ -148,8 +148,8 @@ Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
 <+>UTF-8
 ===================================================================
 diff --git a/.idea/workspace.xml b/.idea/workspace.xml
---- a/.idea/workspace.xml	(revision 3d7c073a575fd5e26b5f714785b106f8d52736b9)
-+++ b/.idea/workspace.xml	(date 1650103472423)
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
 @@ -5,8 +5,16 @@
    </component>
    <component name="ChangeListManager">
@@ -341,8 +341,8 @@ Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
 <+>UTF-8
 ===================================================================
 diff --git a/.idea/inspectionProfiles/profiles_settings.xml b/.idea/inspectionProfiles/profiles_settings.xml
---- a/.idea/inspectionProfiles/profiles_settings.xml	(revision 3d7c073a575fd5e26b5f714785b106f8d52736b9)
-+++ b/.idea/inspectionProfiles/profiles_settings.xml	(date 1650102841098)
+--- a/.idea/inspectionProfiles/profiles_settings.xml	
++++ b/.idea/inspectionProfiles/profiles_settings.xml	
 @@ -1,0 +1,6 @@
 +<component name="InspectionProjectProfileManager">
 +  <settings>
@@ -357,8 +357,8 @@ Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
 <+>UTF-8
 ===================================================================
 diff --git a/.idea/misc.xml b/.idea/misc.xml
---- a/.idea/misc.xml	(revision 3d7c073a575fd5e26b5f714785b106f8d52736b9)
-+++ b/.idea/misc.xml	(date 1650103075326)
+--- a/.idea/misc.xml	
++++ b/.idea/misc.xml	
 @@ -1,0 +1,4 @@
 +<?xml version="1.0" encoding="UTF-8"?>
 +<project version="4">
@@ -371,8 +371,8 @@ Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
 <+>UTF-8
 ===================================================================
 diff --git a/.idea/py0305.iml b/.idea/py0305.iml
---- a/.idea/py0305.iml	(revision 3d7c073a575fd5e26b5f714785b106f8d52736b9)
-+++ b/.idea/py0305.iml	(date 1650103075298)
+--- a/.idea/py0305.iml	
++++ b/.idea/py0305.iml	
 @@ -1,0 +1,12 @@
 +<?xml version="1.0" encoding="UTF-8"?>
 +<module type="PYTHON_MODULE" version="4">
@@ -393,8 +393,8 @@ Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
 <+>UTF-8
 ===================================================================
 diff --git a/.idea/modules.xml b/.idea/modules.xml
---- a/.idea/modules.xml	(revision 3d7c073a575fd5e26b5f714785b106f8d52736b9)
-+++ b/.idea/modules.xml	(date 1650102841066)
+--- a/.idea/modules.xml	
++++ b/.idea/modules.xml	
 @@ -1,0 +1,8 @@
 +<?xml version="1.0" encoding="UTF-8"?>
 +<project version="4">
@@ -406,10 +406,4 @@ diff --git a/.idea/modules.xml b/.idea/modules.xml
 +</project>
 \ No newline at end of file
 diff --git a/demo.py b/demo.py
-deleted file mode 100644
-diff --git a/runoob_py2/orthers/foo.txt b/runoob_py2/orthers/foo.txt
-deleted file mode 100644
-diff --git a/runoob_py2/orthers/test1.txt b/runoob_py2/orthers/test1.txt
-deleted file mode 100644
-diff --git a/runoob_py2/orthers/test_txt b/runoob_py2/orthers/test_txt
 deleted file mode 100644

@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de483787-2ddd-4a31-9129-156aaa2262ef" name="Default Changelist" comment="4月16日，下午把py0305，全推送">
-      <change afterPath="$PROJECT_DIR$/runoob_py2/orthers/1_han_su.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runoob_py2/orthers/1_han_su_in.py" afterDir="false" />
+    <list default="true" id="de483787-2ddd-4a31-9129-156aaa2262ef" name="Default Changelist" comment="4月18日，提交6">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,11 +44,9 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/practice/0414.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/python_exam.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/practice/test.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/practice/maopao.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/runoob_py2/first_page.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/practice/0414.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/practice/maopao.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -223,6 +220,14 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.year_ping_yun" />
+      <item itemvalue="Python.maopao" />
+      <item itemvalue="Python.demo" />
+      <item itemvalue="Python.python_exam" />
+      <item itemvalue="Python.test" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.python_exam" />
@@ -233,6 +238,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ShelveChangesManager" show_recycled="true" />
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -314,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650099407012</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="4月18日，提交6">
+      <created>1650294425211</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1650294425211</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -348,6 +361,7 @@
     <MESSAGE value="4月16日，下午4点" />
     <MESSAGE value="4月16日，平闰年" />
     <MESSAGE value="4月16日，下午把py0305，全推送" />
-    <option name="LAST_COMMIT_MESSAGE" value="4月16日，下午把py0305，全推送" />
+    <MESSAGE value="4月18日，提交6" />
+    <option name="LAST_COMMIT_MESSAGE" value="4月18日，提交6" />
   </component>
 </project>
