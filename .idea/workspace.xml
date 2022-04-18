@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de483787-2ddd-4a31-9129-156aaa2262ef" name="Default Changelist" comment="4月18日，提交2" />
+    <list default="true" id="de483787-2ddd-4a31-9129-156aaa2262ef" name="Default Changelist" comment="4月18日，提交4">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice/0418.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice/0418.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +91,7 @@
       <recent name="D:\python\py0305\practice" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.0414">
+  <component name="RunManager" selected="Python.0418">
     <configuration name="未命名" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -271,8 +274,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.0414" />
         <item itemvalue="Python.0418" />
+        <item itemvalue="Python.0414" />
         <item itemvalue="Python.set" />
         <item itemvalue="Python.python_exam" />
         <item itemvalue="Python.test" />
@@ -387,7 +390,21 @@
       <option name="project" value="LOCAL" />
       <updated>1650293835740</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="4月18日，提交3">
+      <created>1650293910450</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1650293910450</updated>
+    </task>
+    <task id="LOCAL-00012" summary="4月18日，提交4">
+      <created>1650293936867</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1650293936867</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -423,6 +440,8 @@
     <MESSAGE value="4月16日，下午把py0305，全推送" />
     <MESSAGE value="4月18日，晚上新建" />
     <MESSAGE value="4月18日，提交2" />
-    <option name="LAST_COMMIT_MESSAGE" value="4月18日，提交2" />
+    <MESSAGE value="4月18日，提交3" />
+    <MESSAGE value="4月18日，提交4" />
+    <option name="LAST_COMMIT_MESSAGE" value="4月18日，提交4" />
   </component>
 </project>
